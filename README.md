@@ -1,2 +1,15 @@
-# hello-world-python
-A simple Python project demonstrating a "Hello, World!" program. This repository serves as a basic introduction to Python and version control with Git. It includes a `hello.py` script and a `README.md` file with setup instructions. Ideal for beginners to learn Python and GitHub basics.
+**# Hello World Python**
+
+A basic Python project to demonstrate a simple "Hello, World!" program. This repository is designed for beginners to learn the fundamentals of Python and get acquainted with GitHub.
+
+**## Project Overview**
+
+This project contains a Python script that prints "Hello, World!" to the console. It serves as an introductory exercise for those new to Python programming.
+
+**## Installation**
+
+To get started with this project, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/DeepPyLab/hello-world-python.git
